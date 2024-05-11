@@ -64,6 +64,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.18, )"
+            },
+            "X.PagedList": {
+              "target": "Package",
+              "version": "[7.9.0, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[7.9.1, )"
             }
           },
           "imports": [
