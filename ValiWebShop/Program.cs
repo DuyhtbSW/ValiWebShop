@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using ValiWebShop.Models;
+using ValiWebShop.Repository;
+
 namespace ValiWebShop
 {
     public class Program
@@ -8,7 +12,9 @@ namespace ValiWebShop
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            var connectionString = builder.Configuration.GetConnectionString("QlbanValiContext");
+            builder.Services.AddDbContext<QlbanVaLiContext>(x=>x.UseSqlServer(connectionString));
+            builder.Services.AddScoped<ILoaiSpRepository, LoaiSpRepository>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
