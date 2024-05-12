@@ -25,7 +25,15 @@ namespace ValiWebShop.Controllers
 
             return View(lst);
         }
-
+        public IActionResult SanPhamTheoLoai (String maloai, int? page)
+        {
+            int pageSize = 8;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstsanpham = db.TDanhMucSps.AsNoTracking().Where(x=> x.MaLoai == maloai).OrderBy(x => x.TenSp);
+            PagedList<TDanhMucSp> lst = new PagedList<TDanhMucSp>(lstsanpham, pageNumber, pageSize);
+            ViewBag.maloai = maloai;
+            return View(lst); // Truyền danh sách sản phẩm vào view
+        }
         public IActionResult Privacy()
         {
             return View();
