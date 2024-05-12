@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TTSUjumZBMFdCCkdqrlHH6sPfm0kUI5UpDQsUh1Sxbwm3gSQwyscoB2bHTNnHpzqWCQSNNzUBCieIRfA94JaJg==",
+  "dgSpecHash": "edAlTZZgO/OmGZr0hLOal/ZwtGKl0tUoMaBwWNjzAcTRRrR0G1YIUgEm4DGlkRPNHsJLywVcZu/jh5HSI1yKOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\ValiWebShop.csproj",
   "expectedPackageFiles": [
@@ -177,6 +177,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\serilog\\4.0.0-dev-02167\\serilog.4.0.0-dev-02167.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",

@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using ValiWebShop.Models;
+using ValiWebShop.ViewModels;
 using X.PagedList;
 
 namespace ValiWebShop.Controllers
@@ -42,7 +43,17 @@ namespace ValiWebShop.Controllers
             return View(sanSham);
         }
     
+        public IActionResult ProductDetail(string maSp)
+        {
+            var sanPham   =db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
+            var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSp).ToList();
+            var homeProductDetailViewModel = new HomeProductDetailViewModel {
+                danhMucSp = sanPham ,
+                anhSps = anhSanPham 
+            };
 
+            return View(homeProductDetailViewModel);
+        }
         public IActionResult Privacy()
         {
             return View();

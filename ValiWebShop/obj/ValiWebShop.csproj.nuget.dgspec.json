@@ -69,6 +69,10 @@
               "target": "Package",
               "version": "[7.0.12, )"
             },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.0.0-dev-02167, )"
+            },
             "X.PagedList": {
               "target": "Package",
               "version": "[7.9.0, )"

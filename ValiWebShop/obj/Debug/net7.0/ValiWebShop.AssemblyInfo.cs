@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValiWebShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95ec31bc0fdcc994bc0f05a0efe02d844877a22d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+422fb4eb722c6c329c575fd6ad99a44016c33794")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValiWebShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValiWebShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
