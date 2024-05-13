@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using ValiWebShop.Models;
+using ValiWebShop.Models.Authentication;
 using ValiWebShop.ViewModels;
 using X.PagedList;
 
@@ -16,6 +17,7 @@ namespace ValiWebShop.Controllers
         {
             _logger = logger;
         }
+        [Authentication]
 
         public IActionResult Index(int? page)
         {
@@ -26,6 +28,8 @@ namespace ValiWebShop.Controllers
 
             return View(lst);
         }
+        [Authentication]
+
         public IActionResult SanPhamTheoLoai (String maloai, int? page)
         {
             int pageSize = 8;
@@ -35,6 +39,8 @@ namespace ValiWebShop.Controllers
             ViewBag.maloai = maloai;
             return View(lst); // Truyền danh sách sản phẩm vào view
         }
+        [Authentication]
+
         public IActionResult ChiTietSanPham(string maSp)
         {
             var sanSham = db.TDanhMucSps.SingleOrDefault(x=>x.MaSp== maSp);
@@ -42,7 +48,8 @@ namespace ValiWebShop.Controllers
             ViewBag.anhSanPham = anhSanPham;
             return View(sanSham);
         }
-    
+        [Authentication]
+
         public IActionResult ProductDetail(string maSp)
         {
             var sanPham   =db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
@@ -54,12 +61,16 @@ namespace ValiWebShop.Controllers
 
             return View(homeProductDetailViewModel);
         }
+        [Authentication]
+
         public IActionResult Privacy()
         {
             return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        [Authentication]
+
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "edAlTZZgO/OmGZr0hLOal/ZwtGKl0tUoMaBwWNjzAcTRRrR0G1YIUgEm4DGlkRPNHsJLywVcZu/jh5HSI1yKOA==",
+  "dgSpecHash": "aAN8TTTLXmXtsQs9FfVBoauIkFazYVbpjx6gqSg82eVjQFHKH0fWPHxIVCQfD8tPz1IpC5RpFq0CkBiQHtjPPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\ValiWebShop.csproj",
   "expectedPackageFiles": [
@@ -82,6 +82,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.2.0\\microsoft.aspnetcore.responsecaching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.2.0\\microsoft.aspnetcore.routing.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.session\\2.2.0\\microsoft.aspnetcore.session.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",

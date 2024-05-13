@@ -3,23 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\valiwebshop\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\valiwebshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\models\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\models\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\valiwebshop\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\valiwebshop\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\valiwebshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\valiwebshop\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|c:\\users\\admin\\desktop\\prn231\\valiwebshop\\valiwebshop\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\valiwebshop\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4973A344-4283-42A4-9583-2E669930F4F1}|ValiWebShop\\ValiWebShop.csproj|solutionrelative:valiwebshop\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -58,7 +86,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "ValiWebShop\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeToolTip": "ValiWebShop\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAASwHAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:32:35.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ValiWebShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ValiWebShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwD8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:25:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "ValiWebShop\\Models\\Authentication\\Authentication.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "ValiWebShop\\Models\\Authentication\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:21:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Models\\TUser.cs",
+              "RelativeDocumentMoniker": "ValiWebShop\\Models\\TUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Models\\TUser.cs",
+              "RelativeToolTip": "ValiWebShop\\Models\\TUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:08:19.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Program.cs",
+              "RelativeDocumentMoniker": "ValiWebShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Program.cs",
+              "RelativeToolTip": "ValiWebShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:40:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "ValiWebShop\\Views\\Access\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "ValiWebShop\\Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T10:35:32.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "ValiWebShop\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "ValiWebShop\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:27:42.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SuaSanPham.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
               "RelativeDocumentMoniker": "ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
@@ -66,25 +185,23 @@
               "RelativeToolTip": "ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T08:14:15.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T08:14:15.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "DanhMucSanPham.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
               "RelativeDocumentMoniker": "ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
               "RelativeToolTip": "ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T08:00:38.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T08:00:38.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ThemSanPhamMoi.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
               "RelativeDocumentMoniker": "ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
@@ -92,12 +209,11 @@
               "RelativeToolTip": "ValiWebShop\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T07:55:16.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T07:55:16.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "HomeAdminController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "RelativeDocumentMoniker": "ValiWebShop\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
@@ -105,12 +221,11 @@
               "RelativeToolTip": "ValiWebShop\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAuwE8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:49:41.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T07:49:41.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN231\\ValiWebShop\\ValiWebShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ValiWebShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -118,8 +233,7 @@
               "RelativeToolTip": "ValiWebShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T07:44:29.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T07:44:29.035Z"
             }
           ]
         },
